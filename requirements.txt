@@ -5,5 +5,9 @@ plotly>=5.18.0
 scikit-learn>=1.4.0
 lightgbm>=4.1.0
 matplotlib==3.8.2
+seaborn==0.13.2
+folium==0.15.1
+streamlit-folium==0.15.1
+geopandas==0.14.4
 
 
